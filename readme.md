@@ -48,29 +48,39 @@ Impt-B Errors: 0
 
 To compile Artifact Evaluation:
 
-l Artifact Evaluation
+-  Artifact Evaluation (If the package name is not “Artifact Evaluation”, change it to “Artifact Evaluation”. otherwise the script may run wrong.)
 
-l [Python](https://www.python.org/)  https://www.python.org/
 
-l Matplotlib  https://matplotlib.org/
+-  [Python](https://www.python.org/)  https://www.python.org/
 
-l Numpy  https://pypi.org/project/numpy/
 
-l Pandas
+-  Matplotlib  https://matplotlib.org/
+
+
+-  Numpy  https://pypi.org/project/numpy/
+
+
+-  Pandas
+
 
 To test Artifact Evaluation:
 
-l test 
+- test 
 
-l start-up-test.bat
+
+-  start-up-test.bat
+
 
 Computer system environment：
 
-l System: Windows 10 x64
+- System: Windows 10 x64
 
-l Processor: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz 3.41 GHz
 
-l RAM: 8.00GB
+-  Processor: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz 3.41 GHz
+
+
+- RAM: 8.00GB
+
 
 **Description**
 
