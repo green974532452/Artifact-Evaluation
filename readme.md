@@ -6,41 +6,45 @@ This program randomly generates synthetic job sets, calculates the makespan for 
 
 Before attempting to run Artifact Evaluation on Windows, you must have the following installed:
 
-l Python 3.7.3  64bit（must be on your PATH）
+- [ ] Python 3.7.3  64bit（must be on your PATH）
 
-l  Numpy package,Pandas package and Matplotlib package Installed:
 
-Ø `pip install pandas`
+- [ ]  Numpy package,Pandas package and Matplotlib package Installed:
 
-Ø `python -m pip install -U pip`
 
-Ø `Python -m pip install -U matplotlib `
+​	Ø `pip install pandas`
+
+​	Ø `python -m pip install -U pip`
+
+​	Ø `Python -m pip install -U matplotlib `
 
 Run the Artifact Evaluation source program:
 
-l Double click the start-up.bat file to input the Artifact Evaluation folder path to run the source program.(For example: the Artifact Evaluation folder is placed in the G root directory)
+- [ ] l Double click the start-up.bat file to input the Artifact Evaluation folder path to run the source program.(For example: the Artifact Evaluation folder is placed in the G root directory)
 
-Ø `Please enter Artifact Evaluation folder file path:G:\`` `
+  ​	Ø `Please enter Artifact Evaluation folder file path:G:\`` `
 
 Program running time is about 50 seconds.
 
 Run the Artifact Evaluation test program:
 
-l Double click the start-up-test.bat file to input the Artifact Evaluation folder path to run the test program.(For example: the Artifact Evaluation folder is placed in the G root directory)
+- [ ] Double click the start-up-test.bat file to input the Artifact Evaluation folder path to run the test program.(For example: the Artifact Evaluation folder is placed in the G root directory)
 
-Ø `Please enter Artifact Evaluation folder file path:G:\`
+  Ø `Please enter Artifact Evaluation folder file path:G:\`
 
-```
-Run: 100 tests in: 2.44 seconds
-Impt-I Success: 100
-Impt-I Errors: 0
-Impt-I* Success: 100
-Impt-I* Errors: 0
-Impt-II Success: 100
-Impt-II Errors: 0
-Impt-B Success: 100
-Impt-B Errors: 0
-```
+  ```
+  Run: 100 tests in: 2.44 seconds
+  Impt-I Success: 100
+  Impt-I Errors: 0
+  Impt-I* Success: 100
+  Impt-I* Errors: 0
+  Impt-II Success: 100
+  Impt-II Errors: 0
+  Impt-B Success: 100
+  Impt-B Errors: 0
+  ```
+
+  
 
  
 
